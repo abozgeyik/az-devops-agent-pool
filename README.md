@@ -1,7 +1,5 @@
 # Azure DevOps Pipeline Agent Pool Configuration
 
-# Azure DevOps Pipeline Agent Pool Configuration
-
 This repository was created by following the official documentation provided by Microsoft. The purpose of this repository is to configure an Azure DevOps pipeline agent pool using Docker containers.
 
 To set up the agent pool, please refer to the [official documentation](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azure-devops) for detailed instructions.
